@@ -1,7 +1,7 @@
 # Predicting Used Car Prices in the UK
 
 ## Project Overview
-This project builds a machine learning pipeline to predict the selling price of used cars in the UK. By analysing features such as mileage, age, and engine size, the model helps uncover the key drivers of market value.
+This project demonstrates a complete end-to-end data science pipeline, combining Exploratory Data Analysis (EDA) with Advanced Machine Learning to predict the selling price of used cars in the UK. By analysing features such as mileage, age, and engine size, the model helps uncover the key drivers of market value.
 
 **Final Model Performance:**
 *   **R² Score:** 0.92
