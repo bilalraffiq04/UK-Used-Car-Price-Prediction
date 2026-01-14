@@ -12,7 +12,7 @@ This project demonstrates a complete end-to-end data science pipeline, combining
 *   **Visualisation** (Seaborn, Matplotlib)
 *   **Machine Learning** (Scikit-Learn: Linear Regression, Ridge Regression, Random Forest, Gradient Boosting)
 
-### Key Insights & Analysis
+## Key Insights & Analysis
 
 #### 1. Exploratory Data Analysis
 Initial analysis revealed important patterns in the UK used car market:
@@ -23,13 +23,13 @@ Initial analysis revealed important patterns in the UK used car market:
 #### 2. Machine Learning Model
 Built and compared multiple regression models to predict used car prices:
 * **Linear Regression:** Baseline model for comparison.
-* * **Ridge Regression (Log Transformed):** Handled skewed price distribution and regularisation to reduce overfitting.
+* **Ridge Regression (Log Transformed):** Handled skewed price distribution and regularisation to reduce overfitting.
 * **Random Forest:** Captured non-linear relationships in the data.
 * **Gradient Boosting:** Best performing model with R² of 0.92.
 
 *View the full analysis here: [Used_Car_Prices.ipynb](Used_Car_Prices.ipynb)*
 
-### Data Source
+## Data Source
 
 Dataset: [Used Cars Prices in UK](https://www.kaggle.com/datasets/muhammadawaistayyab/used-cars-prices-in-uk) from Kaggle
 
